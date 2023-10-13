@@ -5,7 +5,7 @@
     <option name="enabledOnSave" value="true" />
     <option name="executionMode" value="BINARY" />
     <option name="pathToExecutable" value="D:\PythonAnaconda3\Scripts\black.exe" />
-    <option name="sdkUUID" value="431c4e52-91e1-4486-bac0-09e61ed1a538" />
+    <option name="sdkName" value="Python 3.11 (IntroDaSE)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (IntroDaSE)" project-jdk-type="Python SDK" />
 </project>
