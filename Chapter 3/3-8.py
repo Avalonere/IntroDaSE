@@ -84,3 +84,7 @@ def perf_analysis(sort, n):
     sort(rad_list(n))
     end = time.perf_counter()
     return end - start
+
+
+# O(n^2)中，效率由高到低是插入，选择，冒泡
+# O(nlogn)中，归并排序比希尔排序更高效

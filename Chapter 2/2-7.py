@@ -1,3 +1,4 @@
+# x(n+1) = (2 * x(n) + c / x(n)**2) / 3
 def cube_root(c, precision):
     approx = c / 2
     count = 0
