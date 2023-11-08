@@ -1,0 +1,55 @@
+3.
+CREATE TABLE IF NOT EXISTS user
+(
+id INT UNSIGNED AUTO_INCREMENT,
+name VARCHAR(20),
+sex VARCHAR(10),
+age INT UNSIGNED,
+phone VARCHAR(20),
+PRIMARY KEY (id)
+);
+
+4.
+SELECT * FROM user WHERE age BETWEEN 20 AND 30;
+
+5.
+DELETE FROM user WHERE name LIKE '%张%';
+
+6.
+SELECT AVG(age) AS average_age FROM user;
+
+7.
+SELECT * FROM user WHERE age BETWEEN 20 AND 30 AND name LIKE '%张%' ORDER BY age DESC;
+
+8.
+CREATE TABLE IF NOT EXISTS team
+(
+id INT UNSIGNED AUTO_INCREMENT,
+teamName VARCHAR(20),
+PRIMARY KEY (id)
+;
+
+CREATE TABLE IF NOT EXISTS score
+(
+id INT UNSIGNED AUTO_INCREMENT,
+teamid INT UNSIGNED,
+userid INT UNSIGNED,
+score INT,
+PRIMARY KEY (id),
+FOREIGN KEY (teamid) REFERENCES team(id),
+FOREIGN KEY (userid) REFERENCES user(id),
+);
+
+9.
+SELECT u.name, u.sex, u.age, u.phone
+FROM user u
+JOIN score s ON u.id = s.userid
+JOIN team t ON s.teamid = t.id
+WHERE t.teamName = 'ECNU' AND u.age < 20;
+
+10.
+SELECT t.teamName, SUM (ISNULL (s.score, 0)) AS total_score
+FROM team t
+JOIN score s ON t.id = s.teamid
+WHERE t.teamName = 'ECNU'
+GROUP BY t.teamName;
