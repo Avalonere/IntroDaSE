@@ -23,8 +23,8 @@ def frac_dec2bin(x, precision):
 
 def dec2bin(x, precision):
     temp = abs(x)
-    int = int_dec2bin(math.floor(temp))
+    integer = int_dec2bin(math.floor(temp))
     frac = frac_dec2bin(temp - math.floor(temp), precision)
     if x < 0:
         print("-", end="")
-    print(int, ".", frac, sep="")
+    print(integer, ".", frac, sep="")
