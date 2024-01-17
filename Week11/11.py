@@ -1,6 +1,6 @@
 from github import Github
 
-token = "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"
+token = "token"
 g = Github(token)
 user = g.get_user()
 followers = user.get_following()
