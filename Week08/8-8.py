@@ -1,7 +1,7 @@
 # 导入所需的库
+import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
-import matplotlib.pyplot as plt
 from sklearn.datasets import load_breast_cancer
 
 # 加载乳腺癌数据集
