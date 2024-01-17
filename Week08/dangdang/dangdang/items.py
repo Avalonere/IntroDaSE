@@ -8,6 +8,7 @@ import scrapy
 
 
 class DangdangItem(scrapy.Item):
-    title = scrapy.Field()
-    price = scrapy.Field()
-    link = scrapy.Field()
+    title = scrapy.Field()  # 书名
+    author = scrapy.Field()  # 作者
+    price = scrapy.Field()  # 价格
+    link = scrapy.Field()  # 链接
