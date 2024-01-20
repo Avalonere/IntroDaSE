@@ -11,15 +11,18 @@
 
 ### 请求网页
 国家数据网站基于XHR，使用开发者模式研究Fetch/XHR，例如点击指标-人口-总人口，有如下信息：
+
 ![web1](./plot/web1.png)
 
 再点击最近十年，有如下变化：
+
 ![web2](./plot/web2.png)
 
 即dfwds有两组，分别是指标代码和时间范围，而省份的选择则会影响wds中的valuecode，k1是时间戳。通过requests库发送这些信息进行爬虫。
 
 ### 内容解析
 解析上一步中保存至本地的网页JSON文件，
+
 ![json](./plot/json.png)
 
 可以看到实际的数据位于strdata中。此处注意到，网站目前更新了2023的条目，但没有数据，所以爬取出来的都有一个空的2023项目，为了获得2022-2013十年中的数据，我们需要请求LAST11，然后去除掉2023的条目。根据此JSON的格式，可以用["returndata"]["datanodes"][i]["data"]["strdata"]来提取strdata，i是节点的序号，类似于二维数组在内存中的排布，由列数（年份）和行数（指标）确定一个数据所在节点的序号。
@@ -35,15 +38,19 @@
 
 ## 基本统计信息与可视化
 对于采集到的各项指标，各城市的十年变化，我们分析一些基本的统计指标，例如均值，总数，标准差和极差，进行可视化展示，例如蜂蜜产量：
+
 ![Honey Production Change](./plot/index_change/Honey.png)
+
 各种指标的图标位于./plot/index_change
 
 ## 特征工程
 ### 相关性分析
 各指标的相关系数如下：
+
 ![feature_heatmap](./plot/feature_heatmap.png)
 
 随机森林模型得出的特征重用性如下：
+
 ![feature_importance](./plot/feature_importance.png)
 
 综合两者考虑，可以选择下列特征用于建模
@@ -55,19 +62,24 @@
 
 ### PCA降维
 除了直接选取可能相关的特征，还可以用PCA对数据进行降维，如下图所示：
+
 ![pca_evaluation](./plot/pca_evaluation.png)
 
 尝试将数据由PCA降至两维：
+
 ![pca_result](./plot/pca_result.png)
 
 ## 数据建模
 尝试使用线性回归模型进行建模，用2013-2021的数据训练模型，评估模型效果。例如，用4.1中分析出的5个可能比较重要的特征建模：
+
 ![regression](./plot/regression.png)
 
 通过MSE和R2可知，模型效果尚可，用模型对2022年的数据进行预测，再与2022年的实际值比较，以预测值减去实际值为差异，如果较大，说明该省份可能有潜在的蜂蜜市场，如下图所示：
+
 ![prediction](./plot/prediction.png)
 
 还可以用4.2中获得的PCA降维后的数据进行回归分析，类似可得：
+
 ![regression_pca](./plot/regression_pca.png)
 ![prediction_pca](./plot/prediction_pca.png)
 
