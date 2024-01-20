@@ -20,17 +20,14 @@ def plot(index):
     data_sorted = data.sort_values(by="avg").drop(labels="avg", axis=1)
     data = data.drop(labels="avg", axis=1)
 
-    # 划分为四组
     group_size = len(data) // 4
     group1 = data_sorted.iloc[:group_size]
     group2 = data_sorted.iloc[group_size : 2 * group_size]
     group3 = data_sorted.iloc[2 * group_size : 3 * group_size]
     group4 = data_sorted.iloc[3 * group_size :]
 
-    # 创建画布和子图
     fig, axs = plt.subplots(2, 4, figsize=(20, 10))
 
-    # 第一行四列的子图，分别展示四组省份十年变化，并加入图例（放在外面）
     for ax, group in zip(axs[0, :], [group1, group2, group3, group4]):
         for province in group.index:
             if province != "10年均值":
@@ -38,7 +35,6 @@ def plot(index):
         ax.set_title(f"{group.index[0]} to {group.index[-1]} - 10-Year Change")
         ax.legend()
 
-    # 第二行四列的子图，分别展示均值、总数、标准差和极差
     axs[1, 0].plot(data.mean(), label="Mean", marker="o")
     axs[1, 0].legend()
     axs[1, 0].set_title("Mean Change")
