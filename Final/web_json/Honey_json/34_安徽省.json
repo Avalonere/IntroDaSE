@@ -1,0 +1,3377 @@
+{
+  "returncode": 200,
+  "returndata": {
+    "datanodes": [
+      {
+        "code": "zb.A0D1001_reg.340000_sj.2023",
+        "data": {
+          "data": 0.0,
+          "dotcount": 2,
+          "hasdata": false,
+          "strdata": ""
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1001",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1001_reg.340000_sj.2022",
+        "data": {
+          "data": 475.341715849458,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "475.34"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1001",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1001_reg.340000_sj.2021",
+        "data": {
+          "data": 456.31111384195,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "456.31"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1001",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1001_reg.340000_sj.2020",
+        "data": {
+          "data": 396.03170388408,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "396.03"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1001",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1001_reg.340000_sj.2019",
+        "data": {
+          "data": 402.833634106847,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "402.83"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1001",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1001_reg.340000_sj.2018",
+        "data": {
+          "data": 421.740100927128,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "421.74"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1001",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1001_reg.340000_sj.2017",
+        "data": {
+          "data": 415.184674578988,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "415.18"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1001",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1001_reg.340000_sj.2016",
+        "data": {
+          "data": 411.389653958408,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "411.39"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1001",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1001_reg.340000_sj.2015",
+        "data": {
+          "data": 419.383398645007,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "419.38"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1001",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1001_reg.340000_sj.2014",
+        "data": {
+          "data": 414.017655620969,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "414.02"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1001",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1001_reg.340000_sj.2013",
+        "data": {
+          "data": 403.82564188946,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "403.83"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1001",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2013",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1002_reg.340000_sj.2023",
+        "data": {
+          "data": 0.0,
+          "dotcount": 2,
+          "hasdata": false,
+          "strdata": ""
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1002",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1002_reg.340000_sj.2022",
+        "data": {
+          "data": 248.281919025613,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "248.28"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1002",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1002_reg.340000_sj.2021",
+        "data": {
+          "data": 238.732614447705,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "238.73"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1002",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1002_reg.340000_sj.2020",
+        "data": {
+          "data": 183.358382832339,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "183.36"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1002",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1002_reg.340000_sj.2019",
+        "data": {
+          "data": 197.797608233375,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "197.80"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1002",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1002_reg.340000_sj.2018",
+        "data": {
+          "data": 243.893475010327,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "243.89"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1002",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1002_reg.340000_sj.2017",
+        "data": {
+          "data": 242.680074637141,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "242.68"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1002",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1002_reg.340000_sj.2016",
+        "data": {
+          "data": 244.855653958409,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "244.86"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1002",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1002_reg.340000_sj.2015",
+        "data": {
+          "data": 259.1065121253,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "259.11"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1002",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1002_reg.340000_sj.2014",
+        "data": {
+          "data": 264.7997058,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "264.80"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1002",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1002_reg.340000_sj.2013",
+        "data": {
+          "data": 253.415116787,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "253.42"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1002",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2013",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1003_reg.340000_sj.2023",
+        "data": {
+          "data": 0.0,
+          "dotcount": 2,
+          "hasdata": false,
+          "strdata": ""
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1003",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1003_reg.340000_sj.2022",
+        "data": {
+          "data": 11.6629,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "11.66"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1003",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1003_reg.340000_sj.2021",
+        "data": {
+          "data": 11.15,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "11.15"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1003",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1003_reg.340000_sj.2020",
+        "data": {
+          "data": 9.92429737072481,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "9.92"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1003",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1003_reg.340000_sj.2019",
+        "data": {
+          "data": 9.4878559949568,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "9.49"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1003",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1003_reg.340000_sj.2018",
+        "data": {
+          "data": 8.70408177408,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "8.70"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1003",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1003_reg.340000_sj.2017",
+        "data": {
+          "data": 8.07428736,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "8.07"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1003",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1003_reg.340000_sj.2016",
+        "data": {
+          "data": 16.4916,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "16.49"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1003",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1003_reg.340000_sj.2015",
+        "data": {
+          "data": 16.1914279026262,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "16.19"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1003",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1003_reg.340000_sj.2014",
+        "data": {
+          "data": 17.891080555388,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "17.89"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1003",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1003_reg.340000_sj.2013",
+        "data": {
+          "data": 18.14511212514,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "18.15"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1003",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2013",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1004_reg.340000_sj.2023",
+        "data": {
+          "data": 0.0,
+          "dotcount": 2,
+          "hasdata": false,
+          "strdata": ""
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1004",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1004_reg.340000_sj.2022",
+        "data": {
+          "data": 22.4937148388595,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "22.49"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1004",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1004_reg.340000_sj.2021",
+        "data": {
+          "data": 21.8810455630929,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "21.88"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1004",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1004_reg.340000_sj.2020",
+        "data": {
+          "data": 20.6619882559895,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "20.66"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1004",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1004_reg.340000_sj.2019",
+        "data": {
+          "data": 18.8275179739564,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "18.83"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1004",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1004_reg.340000_sj.2018",
+        "data": {
+          "data": 17.141889072,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "17.14"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1004",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1004_reg.340000_sj.2017",
+        "data": {
+          "data": 16.514344,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "16.51"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1004",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1004_reg.340000_sj.2016",
+        "data": {
+          "data": 17.347,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "17.35"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1004",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1004_reg.340000_sj.2015",
+        "data": {
+          "data": 16.579561662029,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "16.58"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1004",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1004_reg.340000_sj.2014",
+        "data": {
+          "data": 15.4949174411486,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "15.49"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1004",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1004_reg.340000_sj.2013",
+        "data": {
+          "data": 14.9985691551798,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "15.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1004",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2013",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1005_reg.340000_sj.2023",
+        "data": {
+          "data": 0.0,
+          "dotcount": 2,
+          "hasdata": false,
+          "strdata": ""
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1005",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1005_reg.340000_sj.2022",
+        "data": {
+          "data": 50.7365222706254,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "50.74"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1005",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1005_reg.340000_sj.2021",
+        "data": {
+          "data": 47.5506300568186,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "47.55"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1005",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1005_reg.340000_sj.2020",
+        "data": {
+          "data": 37.6368851622374,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "37.64"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1005",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1005_reg.340000_sj.2019",
+        "data": {
+          "data": 33.7550539571636,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "33.76"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1005",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1005_reg.340000_sj.2018",
+        "data": {
+          "data": 30.7960964703486,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "30.80"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1005",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1005_reg.340000_sj.2017",
+        "data": {
+          "data": 29.8411787503378,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "29.84"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1005",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1005_reg.340000_sj.2016",
+        "data": {
+          "data": 32.6820689322079,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "32.68"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1005",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1005_reg.340000_sj.2015",
+        "data": {
+          "data": 30.6298677902604,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "30.63"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1005",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1005_reg.340000_sj.2014",
+        "data": {
+          "data": 27.8706713287174,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "27.87"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1005",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1005_reg.340000_sj.2013",
+        "data": {
+          "data": 25.33927750588,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "25.34"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1005",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2013",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1006_reg.340000_sj.2023",
+        "data": {
+          "data": 0.0,
+          "dotcount": 2,
+          "hasdata": false,
+          "strdata": ""
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1006",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1006_reg.340000_sj.2022",
+        "data": {
+          "data": 151.53,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "151.53"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1006",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1006_reg.340000_sj.2021",
+        "data": {
+          "data": 111.631,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "111.63"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1006",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1006_reg.340000_sj.2020",
+        "data": {
+          "data": 194.298,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "194.30"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1006",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1006_reg.340000_sj.2019",
+        "data": {
+          "data": 132.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "132.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1006",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1006_reg.340000_sj.2018",
+        "data": {
+          "data": 132.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "132.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1006",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1006_reg.340000_sj.2017",
+        "data": {
+          "data": 231.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "231.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1006",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1006_reg.340000_sj.2016",
+        "data": {
+          "data": 216.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "216.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1006",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1006_reg.340000_sj.2015",
+        "data": {
+          "data": 127.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "127.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1006",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1006_reg.340000_sj.2014",
+        "data": {
+          "data": 169.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "169.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1006",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1006_reg.340000_sj.2013",
+        "data": {
+          "data": 158.92,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "158.92"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1006",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2013",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1007_reg.340000_sj.2023",
+        "data": {
+          "data": 0.0,
+          "dotcount": 2,
+          "hasdata": false,
+          "strdata": ""
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1007",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1007_reg.340000_sj.2022",
+        "data": {
+          "data": 82.963,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "82.96"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1007",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1007_reg.340000_sj.2021",
+        "data": {
+          "data": 60.613,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "60.61"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1007",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1007_reg.340000_sj.2020",
+        "data": {
+          "data": 116.198,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "116.20"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1007",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1007_reg.340000_sj.2019",
+        "data": {
+          "data": 115.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "115.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1007",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1007_reg.340000_sj.2018",
+        "data": {
+          "data": 95.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "95.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1007",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1007_reg.340000_sj.2017",
+        "data": {
+          "data": 111.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "111.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1007",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1007_reg.340000_sj.2016",
+        "data": {
+          "data": 94.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "94.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1007",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1007_reg.340000_sj.2015",
+        "data": {
+          "data": 62.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "62.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1007",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1007_reg.340000_sj.2014",
+        "data": {
+          "data": 106.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "106.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1007",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1007_reg.340000_sj.2013",
+        "data": {
+          "data": 96.92,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "96.92"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1007",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2013",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1008_reg.340000_sj.2023",
+        "data": {
+          "data": 0.0,
+          "dotcount": 2,
+          "hasdata": false,
+          "strdata": ""
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1008",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1008_reg.340000_sj.2022",
+        "data": {
+          "data": 63.825,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "63.83"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1008",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1008_reg.340000_sj.2021",
+        "data": {
+          "data": 49.355,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "49.36"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1008",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1008_reg.340000_sj.2020",
+        "data": {
+          "data": 77.1,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "77.10"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1008",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1008_reg.340000_sj.2019",
+        "data": {
+          "data": 17.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "17.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1008",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1008_reg.340000_sj.2018",
+        "data": {
+          "data": 37.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "37.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1008",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1008_reg.340000_sj.2017",
+        "data": {
+          "data": 120.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "120.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1008",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1008_reg.340000_sj.2016",
+        "data": {
+          "data": 122.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "122.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1008",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1008_reg.340000_sj.2015",
+        "data": {
+          "data": 65.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "65.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1008",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1008_reg.340000_sj.2014",
+        "data": {
+          "data": 63.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "63.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1008",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1008_reg.340000_sj.2013",
+        "data": {
+          "data": 62.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "62.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1008",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2013",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1009_reg.340000_sj.2023",
+        "data": {
+          "data": 0.0,
+          "dotcount": 2,
+          "hasdata": false,
+          "strdata": ""
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1009",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1009_reg.340000_sj.2022",
+        "data": {
+          "data": 26.532,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "26.53"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1009",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1009_reg.340000_sj.2021",
+        "data": {
+          "data": 16.33,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "16.33"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1009",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1009_reg.340000_sj.2020",
+        "data": {
+          "data": 17.91,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "17.91"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1009",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1009_reg.340000_sj.2019",
+        "data": {
+          "data": 25.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "25.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1009",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1009_reg.340000_sj.2018",
+        "data": {
+          "data": 23.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "23.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1009",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1009_reg.340000_sj.2017",
+        "data": {
+          "data": 56.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "56.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1009",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1009_reg.340000_sj.2016",
+        "data": {
+          "data": 60.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "60.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1009",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1009_reg.340000_sj.2015",
+        "data": {
+          "data": 54.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "54.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1009",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1009_reg.340000_sj.2014",
+        "data": {
+          "data": 92.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "92.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1009",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D1009_reg.340000_sj.2013",
+        "data": {
+          "data": 83.69,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "83.69"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D1009",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2013",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100A_reg.340000_sj.2023",
+        "data": {
+          "data": 0.0,
+          "dotcount": 2,
+          "hasdata": false,
+          "strdata": ""
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100A",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100A_reg.340000_sj.2022",
+        "data": {
+          "data": 1.281,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "1.28"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100A",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100A_reg.340000_sj.2021",
+        "data": {
+          "data": 0.547,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "0.55"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100A",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100A_reg.340000_sj.2020",
+        "data": {
+          "data": 2.43,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "2.43"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100A",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100A_reg.340000_sj.2019",
+        "data": {
+          "data": 15.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "15.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100A",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100A_reg.340000_sj.2018",
+        "data": {
+          "data": 0.0,
+          "dotcount": 2,
+          "hasdata": false,
+          "strdata": ""
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100A",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100A_reg.340000_sj.2017",
+        "data": {
+          "data": 10.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "10.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100A",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100A_reg.340000_sj.2016",
+        "data": {
+          "data": 10.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "10.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100A",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100A_reg.340000_sj.2015",
+        "data": {
+          "data": 10.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "10.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100A",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100A_reg.340000_sj.2014",
+        "data": {
+          "data": 10.0,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "10.00"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100A",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100A_reg.340000_sj.2013",
+        "data": {
+          "data": 10.31,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "10.31"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100A",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2013",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100B_reg.340000_sj.2023",
+        "data": {
+          "data": 0.0,
+          "dotcount": 2,
+          "hasdata": false,
+          "strdata": ""
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100B",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100B_reg.340000_sj.2022",
+        "data": {
+          "data": 186.6634,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "186.66"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100B",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100B_reg.340000_sj.2021",
+        "data": {
+          "data": 177.1,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "177.10"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100B",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100B_reg.340000_sj.2020",
+        "data": {
+          "data": 184.223619704172,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "184.22"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100B",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100B_reg.340000_sj.2019",
+        "data": {
+          "data": 168.702948447044,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "168.70"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100B",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100B_reg.340000_sj.2018",
+        "data": {
+          "data": 158.257925372461,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "158.26"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100B",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100B_reg.340000_sj.2017",
+        "data": {
+          "data": 154.699829298594,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "154.70"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100B",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100B_reg.340000_sj.2016",
+        "data": {
+          "data": 139.5492,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "139.55"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100B",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100B_reg.340000_sj.2015",
+        "data": {
+          "data": 134.659581974763,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "134.66"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100B",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100B_reg.340000_sj.2014",
+        "data": {
+          "data": 122.529191969757,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "122.53"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100B",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100B_reg.340000_sj.2013",
+        "data": {
+          "data": 124.5341924685,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "124.53"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100B",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2013",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100C_reg.340000_sj.2023",
+        "data": {
+          "data": 0.0,
+          "dotcount": 2,
+          "hasdata": false,
+          "strdata": ""
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100C",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2023",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100C_reg.340000_sj.2022",
+        "data": {
+          "data": 1.8493587,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "1.85"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100C",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2022",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100C_reg.340000_sj.2021",
+        "data": {
+          "data": 1.899513,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "1.90"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100C",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2021",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100C_reg.340000_sj.2020",
+        "data": {
+          "data": 1.6956983,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "1.70"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100C",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2020",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100C_reg.340000_sj.2019",
+        "data": {
+          "data": 1.7924,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "1.79"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100C",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2019",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100C_reg.340000_sj.2018",
+        "data": {
+          "data": 2.1031,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "2.10"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100C",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2018",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100C_reg.340000_sj.2017",
+        "data": {
+          "data": 1.7789,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "1.78"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100C",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2017",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100C_reg.340000_sj.2016",
+        "data": {
+          "data": 1.7396,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "1.74"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100C",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2016",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100C_reg.340000_sj.2015",
+        "data": {
+          "data": 1.6734,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "1.67"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100C",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2015",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100C_reg.340000_sj.2014",
+        "data": {
+          "data": 1.9427,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "1.94"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100C",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2014",
+            "wdcode": "sj"
+          }
+        ]
+      },
+      {
+        "code": "zb.A0D100C_reg.340000_sj.2013",
+        "data": {
+          "data": 2.0109,
+          "dotcount": 2,
+          "hasdata": true,
+          "strdata": "2.01"
+        },
+        "wds": [
+          {
+            "valuecode": "A0D100C",
+            "wdcode": "zb"
+          },
+          {
+            "valuecode": "340000",
+            "wdcode": "reg"
+          },
+          {
+            "valuecode": "2013",
+            "wdcode": "sj"
+          }
+        ]
+      }
+    ],
+    "freshsort": 0,
+    "hasdatacount": 119,
+    "wdnodes": [
+      {
+        "nodes": [
+          {
+            "cname": "\u8089\u7c7b\u4ea7\u91cf",
+            "code": "A0D1001",
+            "dotcount": 2,
+            "exp": "\u8089\u7c7b\u603b\u4ea7\u91cf\u6307\u8c03\u67e5\u671f\u5185\u5404\u79cd\u7272\u755c\u53ca\u5bb6\u79bd\u3001\u5154\u7b49\u52a8\u7269\u8089\u4ea7\u91cf\u603b\u8ba1\u3002\u732a\u3001\u725b\u3001\u7f8a\u3001\u9a6c\u3001\u9a74\u3001\u9aa1\u3001\u9a86\u9a7c\u8089\u4ea7\u91cf\u6309\u53bb\u6389\u5934\u8e44\u4e0b\u6c34\u540e\u5e26\u9aa8\u8089\u7684\u80f4\u4f53\u91cd\u91cf\u8ba1\u7b97\uff0c\u5154\u79bd\u8089\u4ea7\u91cf\u6309\u5c60\u5bb0\u540e\u53bb\u6bdb\u548c\u5185\u810f\u540e\u7684\u91cd\u91cf\u8ba1\u7b97\u3002\u732a\u725b\u7f8a\u79bd\u56db\u4e2a\u54c1\u79cd\u8089\u4ea7\u91cf\u7531\u4e3b\u8981\u755c\u79bd\u76d1\u6d4b\u62bd\u6837\u8c03\u67e5\u83b7\u5f97\uff0c\u9a6c\u3001\u9a74\u3001\u9aa1\u3001\u9a86\u9a7c\u3001\u5154\u8089\u4ea7\u91cf\u7531\u5168\u9762\u7edf\u8ba1\u83b7\u5f97\uff0c\u5176\u5b83\u7279\u79cd\u517b\u6b96\u8089\u4ea7\u91cf\u53ef\u7528\u4f4f\u6237\u8c03\u67e5\u8d44\u6599\u63a8\u7b97\u83b7\u5f97\u3002",
+            "ifshowcode": false,
+            "memo": "2000-2006\u5e74\u5168\u56fd\u755c\u7267\u6570\u636e\u4e0e\u519c\u4e1a\u666e\u67e5\u6570\u636e\u5df2\u4f5c\u8854\u63a5\uff0c2000-2005\u5e74\u5206\u5730\u533a\u755c\u7267\u6570\u636e\u672a\u4f5c\u8854\u63a5\uff0c\u5206\u7701\u5408\u8ba1\u6570\u4e0e\u5168\u56fd\u6570\u636e\u4e0d\u76f8\u7b49\u3002",
+            "name": "\u8089\u7c7b\u4ea7\u91cf",
+            "nodesort": "1",
+            "sortcode": 1708,
+            "tag": "",
+            "unit": "\u4e07\u5428"
+          },
+          {
+            "cname": "\u732a\u8089\u4ea7\u91cf",
+            "code": "A0D1002",
+            "dotcount": 2,
+            "exp": "\u732a\u8089\u4ea7\u91cf\u6307\u672c\u8c03\u67e5\u671f\u5185\u51fa\u680f\u80a5\u732a\u4ea7\u51fa\u7684\u732a\u8089\u603b\u91cf\uff0c\u6309\u80f4\u4f53\u91cd\u8ba1\u7b97\u3002\u732a\u8089\u4ea7\u91cf\uff1d\u51fa\u680f\u80a5\u732a\u5934\u6570\u2573\u5e73\u5747\u6bcf\u5934\u80a5\u732a\u51fa\u552e\u91cd\u91cf\u2573\u80a5\u732a\u4ea7\u8089\u7387\uff08%\uff09",
+            "ifshowcode": false,
+            "memo": "2000-2006\u5e74\u5168\u56fd\u755c\u7267\u6570\u636e\u4e0e\u519c\u4e1a\u666e\u67e5\u6570\u636e\u5df2\u4f5c\u8854\u63a5\uff0c2000-2005\u5e74\u5206\u5730\u533a\u755c\u7267\u6570\u636e\u672a\u4f5c\u8854\u63a5\uff0c\u5206\u7701\u5408\u8ba1\u6570\u4e0e\u5168\u56fd\u6570\u636e\u4e0d\u76f8\u7b49\u3002",
+            "name": "\u732a\u8089\u4ea7\u91cf",
+            "nodesort": "1",
+            "sortcode": 1709,
+            "tag": "",
+            "unit": "\u4e07\u5428"
+          },
+          {
+            "cname": "\u725b\u8089\u4ea7\u91cf",
+            "code": "A0D1003",
+            "dotcount": 2,
+            "exp": "\u725b\u8089\u4ea7\u91cf\u6307\u672c\u8c03\u67e5\u671f\u5185\u51fa\u680f\u8089\u725b\u4ea7\u51fa\u7684\u725b\u8089\u4ea7\u91cf\uff0c\u6309\u80f4\u4f53\u91cd\u8ba1\u7b97\u3002\u725b\u8089\u4ea7\u91cf\uff1d\u51fa\u680f\u8089\u725b\u5934\u6570\u2573\u5e73\u5747\u6bcf\u5934\u8089\u725b\u51fa\u552e\u91cd\u91cf\u2573\u8089\u725b\u4ea7\u8089\u7387\uff08%\uff09",
+            "ifshowcode": false,
+            "memo": "2000-2006\u5e74\u5168\u56fd\u755c\u7267\u6570\u636e\u4e0e\u519c\u4e1a\u666e\u67e5\u6570\u636e\u5df2\u4f5c\u8854\u63a5\uff0c2000-2005\u5e74\u5206\u5730\u533a\u755c\u7267\u6570\u636e\u672a\u4f5c\u8854\u63a5\uff0c\u5206\u7701\u5408\u8ba1\u6570\u4e0e\u5168\u56fd\u6570\u636e\u4e0d\u76f8\u7b49\u3002",
+            "name": "\u725b\u8089\u4ea7\u91cf",
+            "nodesort": "1",
+            "sortcode": 1710,
+            "tag": "",
+            "unit": "\u4e07\u5428"
+          },
+          {
+            "cname": "\u7f8a\u8089\u4ea7\u91cf",
+            "code": "A0D1004",
+            "dotcount": 2,
+            "exp": "\u7f8a\u8089\u4ea7\u91cf\u6307\u672c\u8c03\u67e5\u671f\u5185\u51fa\u680f\u80a5\u7f8a\u4ea7\u51fa\u7684\u7f8a\u8089\u4ea7\u91cf\uff0c\u6309\u80f4\u4f53\u91cd\u8ba1\u7b97\u3002\u7f8a\u8089\u4ea7\u91cf\uff1d\u51fa\u680f\u80a5\u7f8a\u5934\u6570\u2573\u5e73\u5747\u6bcf\u53ea\u7f8a\u51fa\u552e\u91cd\u91cf\u2573\u80a5\u7f8a\u4ea7\u8089\u7387\uff08%\uff09",
+            "ifshowcode": false,
+            "memo": "2000-2006\u5e74\u5168\u56fd\u755c\u7267\u6570\u636e\u4e0e\u519c\u4e1a\u666e\u67e5\u6570\u636e\u5df2\u4f5c\u8854\u63a5\uff0c2000-2005\u5e74\u5206\u5730\u533a\u755c\u7267\u6570\u636e\u672a\u4f5c\u8854\u63a5\uff0c\u5206\u7701\u5408\u8ba1\u6570\u4e0e\u5168\u56fd\u6570\u636e\u4e0d\u76f8\u7b49\u3002",
+            "name": "\u7f8a\u8089\u4ea7\u91cf",
+            "nodesort": "1",
+            "sortcode": 1711,
+            "tag": "",
+            "unit": "\u4e07\u5428"
+          },
+          {
+            "cname": "\u725b\u5976\u4ea7\u91cf",
+            "code": "A0D1005",
+            "dotcount": 2,
+            "exp": "\u725b\u5976\u4ea7\u91cf\u6307\u672c\u8c03\u67e5\u671f\u5185\u5976\u725b\u6240\u751f\u4ea7\u7684\u725b\u5976\u603b\u4ea7\u91cf\u3002",
+            "ifshowcode": false,
+            "memo": "2000-2006\u5e74\u5168\u56fd\u755c\u7267\u6570\u636e\u4e0e\u519c\u4e1a\u666e\u67e5\u6570\u636e\u5df2\u4f5c\u8854\u63a5\uff0c2000-2005\u5e74\u5206\u5730\u533a\u755c\u7267\u6570\u636e\u672a\u4f5c\u8854\u63a5\uff0c\u5206\u7701\u5408\u8ba1\u6570\u4e0e\u5168\u56fd\u6570\u636e\u4e0d\u76f8\u7b49\u3002",
+            "name": "\u725b\u5976\u4ea7\u91cf",
+            "nodesort": "1",
+            "sortcode": 1712,
+            "tag": "",
+            "unit": "\u4e07\u5428"
+          },
+          {
+            "cname": "\u7ef5\u7f8a\u6bdb\u4ea7\u91cf",
+            "code": "A0D1006",
+            "dotcount": 2,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "2000-2006\u5e74\u5168\u56fd\u755c\u7267\u6570\u636e\u4e0e\u519c\u4e1a\u666e\u67e5\u6570\u636e\u5df2\u4f5c\u8854\u63a5\uff0c2000-2005\u5e74\u5206\u5730\u533a\u755c\u7267\u6570\u636e\u672a\u4f5c\u8854\u63a5\uff0c\u5206\u7701\u5408\u8ba1\u6570\u4e0e\u5168\u56fd\u6570\u636e\u4e0d\u76f8\u7b49\u3002",
+            "name": "\u7ef5\u7f8a\u6bdb\u4ea7\u91cf",
+            "nodesort": "1",
+            "sortcode": 1713,
+            "tag": "",
+            "unit": "\u5428"
+          },
+          {
+            "cname": "\u7ec6\u7f8a\u6bdb\u4ea7\u91cf",
+            "code": "A0D1007",
+            "dotcount": 2,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "2000-2006\u5e74\u5168\u56fd\u755c\u7267\u6570\u636e\u4e0e\u519c\u4e1a\u666e\u67e5\u6570\u636e\u5df2\u4f5c\u8854\u63a5\uff0c2000-2005\u5e74\u5206\u5730\u533a\u755c\u7267\u6570\u636e\u672a\u4f5c\u8854\u63a5\uff0c\u5206\u7701\u5408\u8ba1\u6570\u4e0e\u5168\u56fd\u6570\u636e\u4e0d\u76f8\u7b49\u3002",
+            "name": "\u7ec6\u7f8a\u6bdb\u4ea7\u91cf",
+            "nodesort": "1",
+            "sortcode": 1714,
+            "tag": "",
+            "unit": "\u5428"
+          },
+          {
+            "cname": "\u534a\u7ec6\u7f8a\u6bdb\u4ea7\u91cf",
+            "code": "A0D1008",
+            "dotcount": 2,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "2000-2006\u5e74\u5168\u56fd\u755c\u7267\u6570\u636e\u4e0e\u519c\u4e1a\u666e\u67e5\u6570\u636e\u5df2\u4f5c\u8854\u63a5\uff0c2000-2005\u5e74\u5206\u5730\u533a\u755c\u7267\u6570\u636e\u672a\u4f5c\u8854\u63a5\uff0c\u5206\u7701\u5408\u8ba1\u6570\u4e0e\u5168\u56fd\u6570\u636e\u4e0d\u76f8\u7b49\u3002",
+            "name": "\u534a\u7ec6\u7f8a\u6bdb\u4ea7\u91cf",
+            "nodesort": "1",
+            "sortcode": 1715,
+            "tag": "",
+            "unit": "\u5428"
+          },
+          {
+            "cname": "\u5c71\u7f8a\u6bdb\u4ea7\u91cf",
+            "code": "A0D1009",
+            "dotcount": 2,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "2000-2006\u5e74\u5168\u56fd\u755c\u7267\u6570\u636e\u4e0e\u519c\u4e1a\u666e\u67e5\u6570\u636e\u5df2\u4f5c\u8854\u63a5\uff0c2000-2005\u5e74\u5206\u5730\u533a\u755c\u7267\u6570\u636e\u672a\u4f5c\u8854\u63a5\uff0c\u5206\u7701\u5408\u8ba1\u6570\u4e0e\u5168\u56fd\u6570\u636e\u4e0d\u76f8\u7b49\u3002",
+            "name": "\u5c71\u7f8a\u6bdb\u4ea7\u91cf",
+            "nodesort": "1",
+            "sortcode": 1716,
+            "tag": "",
+            "unit": "\u5428"
+          },
+          {
+            "cname": "\u7f8a\u7ed2\u4ea7\u91cf",
+            "code": "A0D100A",
+            "dotcount": 2,
+            "exp": "\u7f8a\u7ed2\u4ea7\u91cf\u6307\u672c\u8c03\u67e5\u671f\u5185\u5c71\u7f8a\u6240\u751f\u4ea7\u7684\u7f8a\u7ed2\u603b\u91cf\u3002",
+            "ifshowcode": false,
+            "memo": "2000-2006\u5e74\u5168\u56fd\u755c\u7267\u6570\u636e\u4e0e\u519c\u4e1a\u666e\u67e5\u6570\u636e\u5df2\u4f5c\u8854\u63a5\uff0c2000-2005\u5e74\u5206\u5730\u533a\u755c\u7267\u6570\u636e\u672a\u4f5c\u8854\u63a5\uff0c\u5206\u7701\u5408\u8ba1\u6570\u4e0e\u5168\u56fd\u6570\u636e\u4e0d\u76f8\u7b49\u3002",
+            "name": "\u7f8a\u7ed2\u4ea7\u91cf",
+            "nodesort": "1",
+            "sortcode": 1717,
+            "tag": "",
+            "unit": "\u5428"
+          },
+          {
+            "cname": "\u79bd\u86cb\u4ea7\u91cf",
+            "code": "A0D100B",
+            "dotcount": 2,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "2000-2006\u5e74\u5168\u56fd\u755c\u7267\u6570\u636e\u4e0e\u519c\u4e1a\u666e\u67e5\u6570\u636e\u5df2\u4f5c\u8854\u63a5\uff0c2000-2005\u5e74\u5206\u5730\u533a\u755c\u7267\u6570\u636e\u672a\u4f5c\u8854\u63a5\uff0c\u5206\u7701\u5408\u8ba1\u6570\u4e0e\u5168\u56fd\u6570\u636e\u4e0d\u76f8\u7b49\u3002",
+            "name": "\u79bd\u86cb\u4ea7\u91cf",
+            "nodesort": "1",
+            "sortcode": 1718,
+            "tag": "",
+            "unit": "\u4e07\u5428"
+          },
+          {
+            "cname": "\u8702\u871c\u4ea7\u91cf",
+            "code": "A0D100C",
+            "dotcount": 2,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "2000-2006\u5e74\u5168\u56fd\u755c\u7267\u6570\u636e\u4e0e\u519c\u4e1a\u666e\u67e5\u6570\u636e\u5df2\u4f5c\u8854\u63a5\uff0c2000-2005\u5e74\u5206\u5730\u533a\u755c\u7267\u6570\u636e\u672a\u4f5c\u8854\u63a5\uff0c\u5206\u7701\u5408\u8ba1\u6570\u4e0e\u5168\u56fd\u6570\u636e\u4e0d\u76f8\u7b49\u3002",
+            "name": "\u8702\u871c\u4ea7\u91cf",
+            "nodesort": "1",
+            "sortcode": 1719,
+            "tag": "",
+            "unit": "\u4e07\u5428"
+          }
+        ],
+        "wdcode": "zb",
+        "wdname": "\u6307\u6807"
+      },
+      {
+        "nodes": [
+          {
+            "cname": "\u5b89\u5fbd\u7701",
+            "code": "340000",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "\u5b89\u5fbd\u7701",
+            "nodesort": "1",
+            "sortcode": 25,
+            "tag": "",
+            "unit": ""
+          }
+        ],
+        "wdcode": "reg",
+        "wdname": "\u5730\u533a"
+      },
+      {
+        "nodes": [
+          {
+            "cname": "2023\u5e74",
+            "code": "2023",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2023\u5e74",
+            "nodesort": "1",
+            "sortcode": 3,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2022\u5e74",
+            "code": "2022",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2022\u5e74",
+            "nodesort": "1",
+            "sortcode": 4,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2021\u5e74",
+            "code": "2021",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2021\u5e74",
+            "nodesort": "1",
+            "sortcode": 5,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2020\u5e74",
+            "code": "2020",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2020\u5e74",
+            "nodesort": "1",
+            "sortcode": 6,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2019\u5e74",
+            "code": "2019",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2019\u5e74",
+            "nodesort": "1",
+            "sortcode": 7,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2018\u5e74",
+            "code": "2018",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2018\u5e74",
+            "nodesort": "1",
+            "sortcode": 8,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2017\u5e74",
+            "code": "2017",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2017\u5e74",
+            "nodesort": "1",
+            "sortcode": 9,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2016\u5e74",
+            "code": "2016",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2016\u5e74",
+            "nodesort": "1",
+            "sortcode": 10,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2015\u5e74",
+            "code": "2015",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2015\u5e74",
+            "nodesort": "1",
+            "sortcode": 11,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2014\u5e74",
+            "code": "2014",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2014\u5e74",
+            "nodesort": "1",
+            "sortcode": 12,
+            "tag": "",
+            "unit": ""
+          },
+          {
+            "cname": "2013\u5e74",
+            "code": "2013",
+            "dotcount": 4,
+            "exp": "",
+            "ifshowcode": false,
+            "memo": "",
+            "name": "2013\u5e74",
+            "nodesort": "1",
+            "sortcode": 13,
+            "tag": "",
+            "unit": ""
+          }
+        ],
+        "wdcode": "sj",
+        "wdname": "\u65f6\u95f4"
+      }
+    ]
+  }
+}
