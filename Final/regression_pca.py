@@ -73,7 +73,7 @@ plt.bar(
 plt.xlabel("Data Points")
 plt.ylabel("Demand")
 plt.title("Actual vs Predicted Demand with Discrepancy")
-plt.xticks(x_values, new_data.index)
+plt.xticks(x_values, new_data.index - new_data.index[0])
 plt.legend()
 
 plt.twinx()
